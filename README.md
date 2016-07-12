@@ -13,6 +13,7 @@
   [example](https://github.com/genbattle/dkm) ([reference](http://genbattle.bitbucket.org/blog/2016/01/17/c++-travis-ci/)) 
 
 ## Vim
+- [neovim](https://neovim.io/): a new vim.
 - [syntastic](https://github.com/scrooloose/syntastic): syntax checking.
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): auto code-completion.
 - [YCM-Generator](https://github.com/rdnetto/YCM-Generator): generate a .ycm_extra_conf.py file for use with YouCompleteMe.
@@ -25,3 +26,4 @@
 - [ack.vim](https://github.com/mileszs/ack.vim): search tool.
 - [vim-fugitive](https://github.com/tpope/vim-fugitive): Git wrapper.
 - [vim-markify](https://github.com/dhruvasagar/vim-markify): plugin for marking lines using signs for entries in location list or quickfix lists. 
+- [DoxygenToolkit.vim](https://github.com/mrtazz/DoxygenToolkit.vim): Generates a doxygen comment skeleton for a C, C++ or Python function or class.
