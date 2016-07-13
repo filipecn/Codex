@@ -2,6 +2,10 @@
 	<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Ancientlibraryalex.jpg">
 </h1>
 
+## Conky
+- version with cairo + imlib2: [link](https://github.com/brndnmtthws/conky)
+- google mail, calendar,... [Flattastic](http://nale12.deviantart.com/art/Flattastic-Conky-425379608)
+
 ## PDF
 - <b>Compress</b> <br>
     Install [ghostscript](http://www.ghostscript.com/) and run:
