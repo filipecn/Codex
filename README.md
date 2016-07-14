@@ -5,6 +5,7 @@
 ## Conky
 - version with cairo + imlib2: [link](https://github.com/brndnmtthws/conky)
 - google mail, calendar,... [Flattastic](http://nale12.deviantart.com/art/Flattastic-Conky-425379608)
+- trello cards [link](https://github.com/GustavePate/mergetrelloboards) [trello keys](https://trello.com/app-key)
 
 ## PDF
 - <b>Compress</b> <br>
