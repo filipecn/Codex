@@ -13,6 +13,10 @@
 
     `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`
 
+## Shell
+- [oh-my-zsh]:(https://github.com/robbyrussell/oh-my-zsh): help with zsh configuration
+- [powerline](https://github.com/carlcarl/powerline-zsh): powerline style for zsh
+
 ## [Travis CI](https://travis-ci.org)
 - <b>Modern C++</b> <br>
   [example](https://github.com/genbattle/dkm) ([reference](http://genbattle.bitbucket.org/blog/2016/01/17/c++-travis-ci/)) 
