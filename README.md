@@ -14,7 +14,7 @@
     `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`
 
 ## Shell
-- [oh-my-zsh]:(https://github.com/robbyrussell/oh-my-zsh): help with zsh configuration
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh): help with zsh configuration
 - [powerline](https://github.com/carlcarl/powerline-zsh): powerline style for zsh
 
 ## [Travis CI](https://travis-ci.org)
