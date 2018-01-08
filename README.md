@@ -37,3 +37,6 @@
 - [vim-fugitive](https://github.com/tpope/vim-fugitive): Git wrapper.
 - [vim-markify](https://github.com/dhruvasagar/vim-markify): plugin for marking lines using signs for entries in location list or quickfix lists. 
 - [DoxygenToolkit.vim](https://github.com/mrtazz/DoxygenToolkit.vim): Generates a doxygen comment skeleton for a C, C++ or Python function or class.
+
+## Video & Image
+- [lightworks](https://www.iskysoft.us/lp/filmora-video-editor/?gclid=CjwKCAiA7JfSBRBrEiwA1DWSGyALOZpcwdXKdoAHhFtO0Y4f3E-F89v_Ry7CLnrX2DN_H5kDc5xjAxoCFVsQAvD_BwE): edit videos free
