@@ -13,6 +13,9 @@
 
     `gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf`
 
+## Latex
+- package manager: [tllocalmgr](https://aur.archlinux.org/packages/texlive-localmanager-git/)
+
 ## Shell
 - [wsl](https://github.com/goreliu/wsl-terminal): Terminal emulator for Windows Subsystem for Linux (WSL)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh): help with zsh configuration
